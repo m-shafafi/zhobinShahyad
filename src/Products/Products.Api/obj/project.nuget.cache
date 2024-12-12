@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u/5p0i8dRrs=",
+  "success": true,
+  "projectFilePath": "I:\\GIT\\SiteMedical\\ShopMicroServices\\src\\Products\\Products.Api\\Products.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mehri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\Mehri\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Mehri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
